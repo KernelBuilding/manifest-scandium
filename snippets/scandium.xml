@@ -24,7 +24,7 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="scandium" />
 
   <!-- Remote Frameworks  -->
-  <project path="frameworks/av" name="android_frameworks_av" revision="wip" remote="scandium" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="scandium" />
   <project path="frameworks/base" name="android_frameworks_base" revision="wip" remote="scandium" />
   <project path="frameworks/native" name="android_frameworks_native" remote="scandium" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="scandium" />
