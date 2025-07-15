@@ -90,7 +90,7 @@
 
   <!-- Remote Packages -->
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="scandium" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="scandium" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" revision="wip" remote="scandium" />
   <project path="packages/apps/ScandiumHome" name="packages_apps_ScandiumHome" remote="scandium" />
   <project path="packages/apps/LMOFreeform" name="packages_apps_LMOFreeform" remote="scandium" />
   <project path="packages/apps/ScandiumWallpaperStub" name="packages_apps_ScandiumWallpaperStub" remote="scandium" />
